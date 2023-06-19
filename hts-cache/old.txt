@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:40:46	45/-1	---M--	308	error ('Permanent%20Redirect')	text/plain		http://diagram.com/robots.txt		(from )
+12:40:46	35/-1	---M--	308	error ('Permanent%20Redirect')	text/plain		http://diagram.com/	/root/websites/Diagram/diagram.com/index.html	(from )
+12:40:47	35/-1	---M--	308	error ('Permanent%20Redirect')	text/plain		http://diagram.com/	/root/websites/Diagram/diagram.com/index.html	(from )
